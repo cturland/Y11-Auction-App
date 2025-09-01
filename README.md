@@ -57,6 +57,16 @@ We are seeking a proficient developer to design and build this interactive syste
 
 ---
 
+## 💡 Stretch Goals (Optional)  
+
+If you wish to extend your solution further, consider:  
+- Sorting and displaying items by **highest bid** or **unsold status**.  
+- Allowing buyers to see their **personal bidding history**.  
+- Introducing **timed rounds** (simulated countdown for bidding).  
+- Exporting the final summary to a **CSV or text file**.  
+
+---
+
 Warm regards,  
 **Jonathan Bennett**  
 Auction Director  
